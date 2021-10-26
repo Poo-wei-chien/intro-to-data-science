@@ -1,3 +1,3 @@
 # intro-to-data-science 
 
-https://github.com/RainPoo
+https://github.com/Poo-wei-chien
